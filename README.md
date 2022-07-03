@@ -12,13 +12,15 @@ data tersebut di simpan dalam wayback web archive
 
 [Pagu Zonasi SMA/SMK negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/pagu_zonasi_sma_smk_2022.md)
 
-[Statistik nilai SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2022.md)
+[Statistik nilai(prestasi) SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2022.md)
 
-[Statistik nilai SMA Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2021.md)
+[Statistik zonasi SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_zonasi_2022.md)
+
+[Statistik nilai(prestasi) SMA Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2021.md)
 
 [Statistik zonasi SMA Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_zonasi_2021.md)
 
-[Statistik nilai SMK Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_smk_nilai_2021.md)
+[Statistik nilai(prestasi) SMK Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_smk_nilai_2021.md)
 
 [Statistik zonasi SMK Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_smk_zonasi_2021.md)
 
