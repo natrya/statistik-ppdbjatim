@@ -10,6 +10,8 @@ data tersebut di simpan dalam wayback web archive
 
 [Pagu Prestasi SMA negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/pagu_prestasi_sma_smk_2022.md)
 
+[Pagu Prestasi SMK negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/pagu_prestasi_smk_2022.md)
+
 [Pagu Zonasi SMA/SMK negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/pagu_zonasi_sma_smk_2022.md)
 
 [Statistik nilai(prestasi) SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2022.md)
