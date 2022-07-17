@@ -16,6 +16,8 @@ data tersebut di simpan dalam wayback web archive
 
 [Statistik nilai(prestasi) SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2022.md)
 
+[Statistik nilai(prestasi) SMK Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_smk_nilai_2022.md)
+
 [Statistik zonasi SMA Negeri tahun 2022](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_zonasi_2022.md)
 
 [Statistik nilai(prestasi) SMA Negeri tahun 2021](https://github.com/natrya/statistik-ppdbjatim/blob/main/statistik_sma_nilai_2021.md)
